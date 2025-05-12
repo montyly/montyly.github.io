@@ -58,4 +58,4 @@ Interested in a **private security audit** or have a question? Feel free to reac
 - **Twitter:** [@montyly](https://x.com/Montyly)
 
 ---
-*This site is a static GitHub Pages profile for Josselin Feist. Content last updated May 2025.*
+*Content last updated May 2025.*
