@@ -3,9 +3,6 @@ layout: default
 title: Josselin Feist
 ---
 
-# Josselin Feist
-
-**Blockchain Security Auditor & Researcher**  
 *Former Trail of Bits Engineering Director – Author of Slither – PhD in Program Analysis for Security*
 
 **_Building secure systems at the edge of innovation—driven by curiosity, grounded in rigor._**
