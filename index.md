@@ -3,7 +3,7 @@ layout: default
 title: Josselin Feist
 ---
 
-*Former Trail of Bits Engineering Director – Author of Slither – PhD in Program Analysis for Security*
+*Former Trail of Bits Engineering Director – Author of Slither*
 
 ---
 ## Philosophy & Approach
