@@ -5,12 +5,10 @@ title: Josselin Feist
 
 *Former Trail of Bits Engineering Director – Author of Slither – PhD in Program Analysis for Security*
 
-**_Building secure systems at the edge of innovation—driven by curiosity, grounded in rigor._**
-
 ---
 ## Philosophy & Approach
 
-**“True security comes from relentless curiosity—the endless pursuit of hidden truths.”**
+**“Securing systems at the edge of innovation—driven by curiosity, grounded in rigor.”**
 
 What drives me is the challenge of uncovering non-obvious flaws in complex systems. I’m energized by deep technical puzzles, subtle inconsistencies, and the opportunity to explore areas no one has reviewed before. Security, to me, is not a checklist—it’s an intellectual journey.
 
