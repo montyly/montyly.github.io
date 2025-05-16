@@ -6,19 +6,6 @@ title: Josselin Feist
 *Former Trail of Bits Engineering Director – Author of Slither*
 
 ---
-## Philosophy & Approach
-
-**“Securing systems at the edge of innovation—driven by curiosity, grounded in rigor.”**
-
-What drives me is the challenge of uncovering non-obvious flaws in complex systems. I’m energized by deep technical puzzles, subtle inconsistencies, and the opportunity to explore areas no one has reviewed before. Security, to me, is not a checklist—it’s an intellectual journey.
-
-If your protocol is new, unconventional, or pushing the boundaries of what’s been done, that’s where I’m most effective. I specialize in:
-
-- **Finding deep, design-level bugs** that aren’t caught by standard checklists or automated tools.  
-- **Auditing novel, high-risk protocols** where there is little precedent or existing research.  
-- **Helping teams mature their security practices**, from foundational architecture to ongoing advisory. I created the [Blockchain Security Maturity Model](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/) to guide teams in building long-term resilience.
-
-I don't just deliver reports—I help build stronger systems.
 
 ## Profile
 
@@ -48,6 +35,20 @@ Beyond audits, I’ve spent years building tools that help the broader security 
 - **Slither:** I created [**Slither**](https://github.com/crytic/slither), the leading static analysis framework for Ethereum smart contracts. It’s widely used to detect vulnerabilities and weaknesses in Solidity and Vyper code, helping auditors, developers, and protocol teams improve their security posture.  
 - **Security Tools:** I’ve developed other open-source tools such as [*Tealer*](https://github.com/crytic/tealer), a static analyzer for Algorand’s TEAL smart contracts, and [*RoundMe*](https://github.com/crytic/roundme), a toolkit for identifying rounding errors in smart contract arithmetic.  
 - **Academic Background:** I hold a **Ph.D. in program analysis for security**, which has shaped my systematic approach to auditing and building security tools grounded in theory and proven techniques.
+
+## Philosophy & Approach
+
+**“Securing systems at the edge of innovation—driven by curiosity, grounded in rigor.”**
+
+What drives me is the challenge of uncovering non-obvious flaws in complex systems. I’m energized by deep technical puzzles, subtle inconsistencies, and the opportunity to explore areas no one has reviewed before. Security, to me, is not a checklist—it’s an intellectual journey.
+
+If your protocol is new, unconventional, or pushing the boundaries of what’s been done, that’s where I’m most effective. I specialize in:
+
+- **Finding deep, design-level bugs** that aren’t caught by standard checklists or automated tools.  
+- **Auditing novel, high-risk protocols** where there is little precedent or existing research.  
+- **Helping teams mature their security practices**, from foundational architecture to ongoing advisory. I created the [Blockchain Security Maturity Model](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/) to guide teams in building long-term resilience.
+
+I don't just deliver reports—I help build stronger systems.
 
 ## Contact
 
