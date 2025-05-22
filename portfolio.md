@@ -55,33 +55,36 @@ The folllowing contains example of public security reviews I have participated i
 
 ### Defi
 
-| Year | Name | Report Link |
-|------|------|-------------|
-| 2024 | Uniswap V4 | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-07-uniswap-v4-core-securityreview.pdf) |
-| 2024 | Balancer V3| [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-balancer-v3-securityreview.pdf) |
-| 2023 | Nestedfinance Tetris hyvm  | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2023-06-nestedfinance-tetrishyvm-securityreview.pdf) |
-| 2023 | Nestedfinance  | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2023-02-nestedfinance-smartcontracts-securityreview.pdf) |
-| 2022 | Folksfinance (Algorand) | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2022-11-folksfinance-securityreview.pdf) |
-| 2021 | Balancer V2 | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2021-04-balancer-balancerv2-securityreview.pdf) |
-| 2020 | Balancer core | [Link](https://github.com/trailofbits/publications/blob/master/reviews/BalancerCore.pdf) |
-| 2020 | Curve dao | [Link](https://github.com/trailofbits/publications/blob/master/reviews/CurveDAO.pdf) |
-| 2020 | Curve | [Link](https://github.com/trailofbits/publications/blob/master/reviews/curve-summary.pdf) |
-| 2020 | StakerDAO (Algorand) | [Link](https://github.com/trailofbits/publications/blob/master/reviews/wALGO.pdf) |
-| 2019 | Computable | [Link](https://github.com/trailofbits/publications/blob/master/reviews/computable.pdf) |
-| 2019 | Flexa | [Link](https://github.com/trailofbits/publications/blob/master/reviews/Flexa.pdf) |
-| 2018 | Basis | [Link](https://github.com/trailofbits/publications/blob/master/reviews/basis.pdf) |
-| 2017 | Dapphub | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf) |
-| 2020 | Dexter (Tezos) | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dexter.pdf) |
-| 2018 | Origin | [Link](https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf) |
-| 2018 | Parity | [Link](https://github.com/trailofbits/publications/blob/master/reviews/parity.pdf) |
-| 2017 | Sai | [Link](https://github.com/trailofbits/publications/blob/master/reviews/sai.pdf) |
+
+| Year | Protocol | Description | Report Link |
+|------|----------|-------------|-------------|
+| 2024 | Uniswap V4 | AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-07-uniswap-v4-core-securityreview.pdf) |
+| 2024 | Balancer V3 | AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-balancer-v3-securityreview.pdf) |
+| 2023 | Mass.money Tetris hyvm | VM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2023-06-nestedfinance-tetrishyvm-securityreview.pdf) |
+| 2023 | Mass.money | Account abstraction, vesting, on-chain DCA | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2023-02-nestedfinance-smartcontracts-securityreview.pdf) |
+| 2022 | Folksfinance (Algorand) | Lending protocol | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2022-11-folksfinance-securityreview.pdf) |
+| 2021 | Balancer V2 | AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2021-04-balancer-balancerv2-securityreview.pdf) |
+| 2020 | Balancer core | AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/BalancerCore.pdf) |
+| 2020 | Curve dao | Governance for Stablecoin AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/CurveDAO.pdf) |
+| 2020 | Curve | Stablecoin AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/curve-summary.pdf) |
+| 2020 | StakerDAO (Algorand) | Vault | [Link](https://github.com/trailofbits/publications/blob/master/reviews/wALGO.pdf) |
+| 2019 | Computable | Data marketplace protocol | [Link](https://github.com/trailofbits/publications/blob/master/reviews/computable.pdf) |
+| 2019 | Flexa | Staking | [Link](https://github.com/trailofbits/publications/blob/master/reviews/Flexa.pdf) |
+| 2018 | Basis | Stablecoin | [Link](https://github.com/trailofbits/publications/blob/master/reviews/basis.pdf) |
+| 2017 | Dapphub | Smart contract library | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf) |
+| 2020 | Dexter (Tezos) | AMM on Tezos | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dexter.pdf) |
+| 2018 | Origin | Marketplace protocol | [Link](https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf) |
+| 2018 | Parity | Multisig wallet | [Link](https://github.com/trailofbits/publications/blob/master/reviews/parity.pdf) |
+| 2017 | Sai | Stablecoin | [Link](https://github.com/trailofbits/publications/blob/master/reviews/sai.pdf) |
+
 
 
 ### Blockchain Protocols
 
 | Year | Name | Report Link |
 |------|------|-------------|
-| 2024 | 2024 12 Offchain Boldfixes Securityreview | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
+| 2024 | Offchain Bold fixes review | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
+| 2022 | Offchain Nitro | [Link](https://docs.arbitrum.io/assets/files/2022_03_14_trail_of_bits_security_audit_nitro_1_of_2-d777111730bd602222978f7d98713d40.pdf) |
 | 2020 | Hermez | [Link](https://github.com/trailofbits/publications/blob/master/reviews/hermez.pdf) |
 | 2017 | Rskj | [Link](https://github.com/trailofbits/publications/blob/master/reviews/RSKj.pdf) |
 
@@ -91,6 +94,7 @@ Non public reviews include Algorand, Celo, Chainlink, Status and Tbtc.
 
 | Year | Project | Description | Link |
 |------|---------|-------------|------|
+| 2020 | Tezos |  Callback authorization bypass & Callback injection | (https://forum.tezosagora.org/t/smart-contract-vulnerabilities-due-to-tezos-message-passing-architecture/2045) |
 | 2020 | Aave | Selfdestruct through uninitialized proxy | [Blog](https://blog.trailofbits.com/2020/12/16/breaking-aave-upgradeability/) |
 | 2020 | Vyper | Function collision | [Github](https://github.com/vyperlang/vyper/pull/1530), [Blog](https://blog.trailofbits.com/2019/10/24/watch-your-language-our-first-vyper-audit/) |
 | 2020 | E&Y’s Nightfall | Unused return value allows minting free tokens | N/A |
