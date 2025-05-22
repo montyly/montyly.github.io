@@ -3,6 +3,10 @@ layout: default
 title: Josselin Feist
 ---
 
+[Home](/) | [Portfolio](/portfolio/)
+
+---
+
 *Former Trail of Bits Engineering Director – Author of Slither*
 
 ---
@@ -27,6 +31,8 @@ Over the years, I’ve had the opportunity to lead or contribute to security rev
 - **Arbitrum Nitro L2 Security Review:** I led the audit of [**Arbitrum Nitro**](https://docs.arbitrum.io/assets/files/2022_03_14_trail_of_bits_security_audit_nitro_1_of_2-d777111730bd602222978f7d98713d40.pdf), a complex Ethereum Layer-2 rollup. The review involved deep analysis of the L2 state transition function, fraud proofs, and bridging logic.
 - **Tezos Message-Passing Vulnerability:** I identified and publicly documented critical flaws in Tezos’s [message-passing model](https://forum.tezosagora.org/t/smart-contract-vulnerabilities-due-to-tezos-message-passing-architecture/2045). This included issues like callback authorization bypass and call injection—bugs that hadn’t been previously identified in the ecosystem.  
 - **Balancer V2 Audit:** As the lead reviewer of Balancer’s V2 codebase, I performed an [in-depth analysis of numerical precision issues](https://github.com/trailofbits/publications/blob/master/reviews/2021-04-balancer-balancerv2-securityreview.pdf) and authored **Appendix H**, which covered rounding error impacts. This work directly influenced safer arithmetic practices within the protocol.
+
+*See the [Portfolio](/portfolio/) tab for a full list of public security reviews.*
 
 ## Open Source & Research
 
