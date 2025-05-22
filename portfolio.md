@@ -84,7 +84,7 @@ The folllowing contains example of public security reviews I have participated i
 
 | Year | Name                     | Description                          | Report Link |
 |------|--------------------------|--------------------------------------|-------------|
-| 2024 | Offchain BoLD Fixes      | L2 bridge + dispute resolution       | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
+| 2024 | Offchain BoLD Fixes      | L2 rollup       | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
 | 2022 | Offchain Nitro           | L2 rollup            | [Link](https://docs.arbitrum.io/assets/files/2022_03_14_trail_of_bits_security_audit_nitro_1_of_2-d777111730bd602222978f7d98713d40.pdf) |
 | 2020 | Hermez                   | L2 rollup                            | [Link](https://github.com/trailofbits/publications/blob/master/reviews/hermez.pdf) |
 | 2019 | Centrifuge               | Asset tokenization chain             | [Link](https://resources.cryptocompare.com/asset-management/687/1694187019179.pdf) |
