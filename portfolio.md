@@ -61,7 +61,7 @@ The folllowing contains example of public security reviews I have participated i
 | 2024 | Uniswap V4 | AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-07-uniswap-v4-core-securityreview.pdf) |
 | 2024 | Balancer V3 | AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-balancer-v3-securityreview.pdf) |
 | 2023 | BlueFin (Move/SUI) | Perpetual swap | [Link](https://bluefin.io/blog/doc/bluefin_sui_final_report.pdf) |
-| 2023 | Mass.money Tetris hyvm | VM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2023-06-nestedfinance-tetrishyvm-securityreview.pdf) |
+| 2023 | Mass.money | Tetris VM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2023-06-nestedfinance-tetrishyvm-securityreview.pdf) |
 | 2023 | Mass.money | Account abstraction, vesting, on-chain DCA | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2023-02-nestedfinance-smartcontracts-securityreview.pdf) |
 | 2022 | Folksfinance (Algorand) | Lending protocol | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2022-11-folksfinance-securityreview.pdf) |
 | 2021 | Balancer V2 | AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2021-04-balancer-balancerv2-securityreview.pdf) |
@@ -96,10 +96,10 @@ Non public reviews include Algorand, Celo, Chainlink, Matic (Polygon), Status an
 
 | Year | Project | Description | Link |
 |------|---------|-------------|------|
-| 2020 | Tezos |  Callback authorization bypass & Callback injection | (https://forum.tezosagora.org/t/smart-contract-vulnerabilities-due-to-tezos-message-passing-architecture/2045) |
+| 2020 | Tezos |  Callback authorization bypass & Callback injection | [Post](https://forum.tezosagora.org/t/smart-contract-vulnerabilities-due-to-tezos-message-passing-architecture/2045) |
 | 2020 | Aave | Selfdestruct through uninitialized proxy | [Blog](https://blog.trailofbits.com/2020/12/16/breaking-aave-upgradeability/) |
 | 2020 | Vyper | Function collision | [Github](https://github.com/vyperlang/vyper/pull/1530), [Blog](https://blog.trailofbits.com/2019/10/24/watch-your-language-our-first-vyper-audit/) |
-| 2020 | E&Y’s Nightfall | Unused return value allows minting free tokens | N/A |
+| 2020 | E&Y'gs Nightfall | Unused return value allows minting free tokens | N/A |
 | 2020 | DOSNetwork | ABI encodePacked Collision | N/A |
 | 2020 | EthKids | Msg.value reused | N/A |
 | 2019 | Kleros | Array’s length overwrite allows arbitrary write | N/A |
