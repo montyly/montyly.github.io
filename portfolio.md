@@ -60,6 +60,7 @@ The folllowing contains example of public security reviews I have participated i
 |------|----------|-------------|-------------|
 | 2024 | Uniswap V4 | AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-07-uniswap-v4-core-securityreview.pdf) |
 | 2024 | Balancer V3 | AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-balancer-v3-securityreview.pdf) |
+| 2023 | BlueFin (Move/SUI) | Perpetual swap | [Link](https://bluefin.io/blog/doc/bluefin_sui_final_report.pdf) |
 | 2023 | Mass.money Tetris hyvm | VM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2023-06-nestedfinance-tetrishyvm-securityreview.pdf) |
 | 2023 | Mass.money | Account abstraction, vesting, on-chain DCA | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2023-02-nestedfinance-smartcontracts-securityreview.pdf) |
 | 2022 | Folksfinance (Algorand) | Lending protocol | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2022-11-folksfinance-securityreview.pdf) |
@@ -73,10 +74,10 @@ The folllowing contains example of public security reviews I have participated i
 | 2018 | Basis | Stablecoin | [Link](https://github.com/trailofbits/publications/blob/master/reviews/basis.pdf) |
 | 2017 | Dapphub | Smart contract library | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf) |
 | 2020 | Dexter (Tezos) | AMM on Tezos | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dexter.pdf) |
+| 2018 | Gemini | Stablecoin | [Link](https://github.com/trailofbits/publications/blob/master/reviews/gemini-dollar.pdf) |
 | 2018 | Origin | Marketplace protocol | [Link](https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf) |
 | 2018 | Parity | Multisig wallet | [Link](https://github.com/trailofbits/publications/blob/master/reviews/parity.pdf) |
 | 2017 | Sai | Stablecoin | [Link](https://github.com/trailofbits/publications/blob/master/reviews/sai.pdf) |
-
 
 
 ### Blockchain Protocols
@@ -86,9 +87,10 @@ The folllowing contains example of public security reviews I have participated i
 | 2024 | Offchain Bold fixes review | [Link](https://github.com/trailofbits/publications/blob/master/reviews/2024-12-offchain-boldfixes-securityreview.pdf) |
 | 2022 | Offchain Nitro | [Link](https://docs.arbitrum.io/assets/files/2022_03_14_trail_of_bits_security_audit_nitro_1_of_2-d777111730bd602222978f7d98713d40.pdf) |
 | 2020 | Hermez | [Link](https://github.com/trailofbits/publications/blob/master/reviews/hermez.pdf) |
+| 2019 | Centrifuge | [Link](https://resources.cryptocompare.com/asset-management/687/1694187019179.pdf) |
 | 2017 | Rskj | [Link](https://github.com/trailofbits/publications/blob/master/reviews/RSKj.pdf) |
 
-Non public reviews include Algorand, Celo, Chainlink, Status and Tbtc.
+Non public reviews include Algorand, Celo, Chainlink, Matic (Polygon), Status and Tbtc.
 
 ## 🐞 Vulnerabilities Disclosure
 
