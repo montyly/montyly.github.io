@@ -1,10 +1,51 @@
 ---
-layout: page
+layout: default
 title: Portfolio
 permalink: /portfolio/
 ---
 
-[Home](/) | [Portfolio](/portfolio/)
+<style>
+.nav-tabs {
+  display: flex;
+  margin-bottom: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 0.95em;
+  overflow: hidden;
+  width: fit-content;
+}
+
+.nav-tabs a {
+  padding: 8px 16px;
+  text-decoration: none;
+  color: #0366d6;
+  background: #f8f8f8;
+  border-right: 1px solid #ccc;
+  flex: 1;
+  text-align: center;
+}
+
+.nav-tabs a:last-child {
+  border-right: none;
+}
+
+.nav-tabs a.active {
+  background: white;
+  font-weight: bold;
+}
+</style>
+
+<div class="nav-tabs">
+  <a href="/">Home</a>
+  <a href="/portfolio/" class="active">Portfolio</a>
+</div>
+
+
+---
+
+*Former Trail of Bits Engineering Director – Author of Slither*
+
 
 ---
 
