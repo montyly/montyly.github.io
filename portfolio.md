@@ -69,16 +69,15 @@ The folllowing contains example of public security reviews I have participated i
 | 2020 | Curve dao | Governance for Stablecoin AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/CurveDAO.pdf) |
 | 2020 | Curve | Stablecoin AMM | [Link](https://github.com/trailofbits/publications/blob/master/reviews/curve-summary.pdf) |
 | 2020 | StakerDAO (Algorand) | Vault | [Link](https://github.com/trailofbits/publications/blob/master/reviews/wALGO.pdf) |
+| 2020 | Dexter (Tezos) | AMM on Tezos | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dexter.pdf) |
 | 2019 | Computable | Data marketplace protocol | [Link](https://github.com/trailofbits/publications/blob/master/reviews/computable.pdf) |
 | 2019 | Flexa | Staking | [Link](https://github.com/trailofbits/publications/blob/master/reviews/Flexa.pdf) |
 | 2018 | Basis | Stablecoin | [Link](https://github.com/trailofbits/publications/blob/master/reviews/basis.pdf) |
-| 2017 | Dapphub | Smart contract library | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf) |
-| 2020 | Dexter (Tezos) | AMM on Tezos | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dexter.pdf) |
 | 2018 | Gemini | Stablecoin | [Link](https://github.com/trailofbits/publications/blob/master/reviews/gemini-dollar.pdf) |
 | 2018 | Origin | Marketplace protocol | [Link](https://github.com/trailofbits/publications/blob/master/reviews/origin.pdf) |
 | 2018 | Parity | Multisig wallet | [Link](https://github.com/trailofbits/publications/blob/master/reviews/parity.pdf) |
 | 2017 | Sai | Stablecoin | [Link](https://github.com/trailofbits/publications/blob/master/reviews/sai.pdf) |
-
+| 2017 | Dapphub | Smart contract library | [Link](https://github.com/trailofbits/publications/blob/master/reviews/dapphub.pdf) |
 
 ### Blockchain Protocols
 

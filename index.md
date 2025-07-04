@@ -56,7 +56,7 @@ I specialize in securing both cutting-edge DeFi applications and the core blockc
 - **Deep DeFi Expertise:** I’ve reviewed AMMs, stablecoins, lending platforms, vaults, and liquid (re)staking systems.  
 - **Core Blockchain Protocols:** I have deep experience auditing L1 and L2 systems, rollups, bridges, consensus, and messaging layers.  
 - **Multi-Language Security Expertise:** I'm highly proficient in **Solidity**, **Yul**, **Rust**, and **Go**, with years of hands-on auditing and development experience.  
-- **Alt-Chain Experience:** I’ve also worked on protocols like Solana, Cosmos, Polkadot, and Algorand, adapting my methods to their unique architectures.
+- **Alt-Chain Experience:** I’ve also worked on protocols like Move, Solana, Cosmos, Polkadot, and Algorand, adapting my methods to their unique architectures.
 
 ## Notable Security Review Outcomes
 
