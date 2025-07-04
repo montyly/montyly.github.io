@@ -90,7 +90,7 @@ If your protocol is new, unconventional, or pushing the boundaries of what’s b
 - **Auditing novel, high-risk protocols** where there is little precedent or existing research.  
 - **Helping teams mature their security practices**, from foundational architecture to ongoing advisory. I created the [Blockchain Security Maturity Model](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/) to guide teams in building long-term resilience.
 
-I don't just deliver reports—I help build stronger systems.
+I don't just deliver reports, I help build stronger systems.
 
 ## Contact
 
@@ -101,4 +101,4 @@ Interested in a **private security audit** or have a question? Feel free to reac
 - **Twitter:** [@montyly](https://x.com/Montyly)
 
 ---
-*Content last updated May 2025.*
+*Content last updated July 2025.*
