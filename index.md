@@ -99,6 +99,9 @@ Interested in a **private security audit** or have a question? Feel free to reac
 - **Email:** [josselin.feist@proton.me](mailto:josselin.feist@proton.me)  
 - **Telegram:** [@montyly](https://t.me/montyly)  
 - **Twitter:** [@montyly](https://x.com/Montyly)
+- **Book a call (consulting or business):** [30 min call](https://calendar.app.google/uyV1CaY5pLF5z7baA) 
+
+Want to talk security, tooling ideas, career growth, or just have a casual chat? Book a [coffee call](https://calendar.app.google/3XYr7MsSyekpzTn2A) with me.
 
 ---
 *Content last updated July 2025.*
