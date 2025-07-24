@@ -96,7 +96,7 @@ I don't just deliver reports, I help build stronger systems.
 
 Interested in a **private security audit** or have a question? Feel free to reach out:
 
-- **Email:** [josselin.feist@proton.me](mailto:josselin@seceureka.com)  
+- **Email:** [josselin@seceureka.com](mailto:josselin@seceureka.com)  
 - **Telegram:** [@montyly](https://t.me/montyly)  
 - **Twitter:** [@montyly](https://x.com/Montyly)
 - **Book a call (consulting or business):** [30 min call](https://calendar.app.google/uyV1CaY5pLF5z7baA) 
