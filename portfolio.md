@@ -38,7 +38,9 @@ permalink: /portfolio/
 
 <div class="nav-tabs">
   <a href="/">Home</a>
+  <a href="/blog">Blog</a>
   <a href="/portfolio/" class="active">Portfolio</a>
+  <a href="/about-approach/">About & Approach</a>
 </div>
 
 
