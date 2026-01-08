@@ -40,7 +40,7 @@ permalink: /portfolio/
   <a href="/">Home</a>
   <a href="/blog">Blog</a>
   <a href="/portfolio/" class="active">Portfolio</a>
-  <a href="/about-approach/">About & Approach</a>
+  <a href="/about/">About</a>
 </div>
 
 

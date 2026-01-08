@@ -39,7 +39,7 @@ title: Josselin Feist
   <a href="/" class="active">Home</a>
   <a href="/blog">Blog</a>
   <a href="/portfolio/">Portfolio</a>
-  <a href="/about-approach/">About & Approach</a>
+  <a href="/about/">About</a>
 </div>
 
 
@@ -86,7 +86,7 @@ Beyond audits, I've spent years building tools that help the broader security co
 
 What drives me is the challenge of uncovering non-obvious flaws in complex systems. I'm energized by deep technical puzzles, subtle inconsistencies, and the opportunity to explore areas that have not been thoroughly examined before.
 
-[_Read more about my approach →_](/about-approach/)
+*See the [About](/about/) to read more about my approach.*
 
 ---
 

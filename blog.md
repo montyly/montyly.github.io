@@ -39,7 +39,7 @@ title: Josselin Feist
   <a href="/" class="active">Home</a>
   <a href="/blog" class="active">Blog</a>
   <a href="/portfolio/">Portfolio</a>
-  <a href="/about-approach/">About & Approach</a>
+  <a href="/about/">About</a>
 </div>
 
 # Blog
