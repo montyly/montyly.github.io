@@ -44,13 +44,6 @@ permalink: /portfolio/
 </div>
 
 
----
-
-*Former Trail of Bits Engineering Director – Author of Slither*
-
-
----
-
 ## 🧾 Audit Portfolio
 
 The folllowing contains example of public security reviews I have participated in. 
