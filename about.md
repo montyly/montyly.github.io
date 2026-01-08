@@ -43,7 +43,7 @@ permalink: /about/
   <a href="/about/" class="active">About</a>
 </div>
 
-# About
+# About SecEureka
 
 I work as an independent security researcher.
 

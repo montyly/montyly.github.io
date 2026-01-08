@@ -36,7 +36,7 @@ title: Josselin Feist
 </style>
 
 <div class="nav-tabs">
-  <a href="/" class="active">Home</a>
+  <a href="/">Home</a>
   <a href="/blog" class="active">Blog</a>
   <a href="/portfolio/">Portfolio</a>
   <a href="/about/">About</a>
