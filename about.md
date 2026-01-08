@@ -64,16 +64,6 @@ That is what I chase.*
 
 ---
 
-## How I Work
-
-I work with teams operating at the edges of technology to help them understand and secure systems that are still being defined.
-
-My work emphasizes deep technical investigation, original analysis, and direct engagement with complex architectures, particularly in blockchain and other high-risk domains.
-
-In addition to client work, I contribute through public research, education, and shared technical work, with the goal of advancing understanding rather than producing noise.
-
----
-
 ## Principles
 
 ### Security as a Craft
