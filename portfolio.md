@@ -44,7 +44,7 @@ permalink: /portfolio/
 </div>
 
 
-## 🧾 Audit Portfolio
+## Audit Portfolio
 
 The folllowing contains example of public security reviews I have participated in. 
 
@@ -92,7 +92,7 @@ Non-public reviews include:
 - Status (Secure messaging + wallet)
 - TBTC (Bitcoin bridge)
 
-## 🐞 Vulnerabilities Disclosure
+## Vulnerabilities Disclosure
 
 | Year | Project | Description | Link |
 |------|---------|-------------|------|
