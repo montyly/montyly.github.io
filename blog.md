@@ -38,6 +38,7 @@ title: Josselin Feist
 <div class="nav-tabs">
   <a href="/">Home</a>
   <a href="/blog" class="active">Blog</a>
+  <a href="/talks/">Talks</a>
   <a href="/portfolio/">Portfolio</a>
   <a href="/about/">About</a>
 </div>
