@@ -75,7 +75,7 @@ Same inputs, different order, different results. **Algebraic equivalence is not 
 
 DeFi protocols work around this using fixed-point arithmetic, scaling numbers up by a factor (usually 10^18) to simulate decimals. But every multiplication and division still loses precision. The question isn't *if* you lose precision, it's *how you handle the loss*.
 
-Libraries like PRBMath and Solmate provide functions like `mulWadDown` and `mulWadUp` that let you choose your rounding directio: nwhether the result should be slightly smaller or larger when precision is lost.
+Libraries like PRBMath and Solmate provide functions like `mulWadDown` and `mulWadUp` that let you choose your rounding directio: whether the result should be slightly smaller or larger when precision is lost.
 
 ---
 
