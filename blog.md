@@ -45,6 +45,8 @@ title: Josselin Feist
 
 # Blog
 
+### 2026
+- [Getting Rounding Right in DeFi](./blog/2026/january/rounding.md)
 
 ## Previous Writing (Trail of Bits)
 
