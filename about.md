@@ -54,14 +54,9 @@ SecEureka is the name I use for my approach to security work.
 
 ## Why I Do This Work
 
-I focus on **deep security understanding** in complex systems where surface-level analysis is insufficient.
+I focus on complex systems where surface-level analysis is not enough.
 
 What motivates me is uncovering how systems actually behave under stress, misuse, and unexpected interactions. I’m drawn to problems that resist easy explanations and require sustained technical engagement.
-
-#### *Why SecEureka?*
-
-*What drove Archimedes to run naked through the streets was understanding.
-That is what I chase.*
 
 ---
 
@@ -69,17 +64,17 @@ That is what I chase.*
 
 ### Security as a Craft
 
-Security is not a checklist or a compliance exercise. It is a craft that blends creativity, rigorous analysis, tooling, and hard-earned intuition.
+Security is not a checklist or a compliance exercise. It requires creativity, rigorous analysis, and understanding systems beyond their intended use.
 
-I work as a hacker and a scholar, using an adversarial mindset to understand systems beyond their intended use, and careful reasoning to build well-founded conclusions.
+My work sits somewhere between an adversarial mindset and careful research. Part hacker, part scholar. I try to break things while building conclusions that hold up to scrutiny.
 
-### Depth Over Scale
+### Depth over Scale
 
-I prioritize depth of understanding over growth, speed, or standardization in how I choose and approach work.
+I prioritize depth of understanding over growth and speed in how I choose and approach work. I favor fewer engagements over a full calendar of surface-level reviews.
 
-### Learning Through Hard Problems
+### Learning through Hard Problems
 
-I seek work that stretches my understanding. The most valuable problems are those that challenge assumptions and force new mental models.
+I seek work that stretches my understanding. Blockchain security evolves constantly, and I try to evolve with it. I look for work that stretches my understanding rather than lets me coast on what I already know.
 
 ### Intellectual Honesty
 
@@ -89,4 +84,4 @@ When uncertainty exists, I acknowledge it. When trade-offs exist, I make them ex
 
 ### Contribution to the Community
 
-Security knowledge compounds when shared responsibly. Public research, education, and shared technical insight are integral to my work.
+Security knowledge compounds when shared. I publish research, tools, write about techniques, and try to contribute back to the community where I can.
