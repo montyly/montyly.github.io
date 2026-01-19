@@ -74,7 +74,7 @@ I prioritize depth of understanding over growth and speed in how I choose and ap
 
 ### Learning through Hard Problems
 
-I seek work that stretches my understanding. Blockchain security evolves constantly, and I try to evolve with it. I look for work that stretches my understanding rather than lets me coast on what I already know.
+I seek work that stretches my understanding. Blockchain security evolves constantly, and I try to evolve with it. I look for work that challenges me rather than lets me coast on what I already know.
 
 ### Intellectual Honesty
 
