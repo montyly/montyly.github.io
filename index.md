@@ -52,7 +52,7 @@ title: Josselin Feist
 
 ## Profile
 
-I'm a seasoned information security expert with over a decade of experience, including **8+ years focused on blockchain security**. Until 2025, I was the Engineering Director of the Blockchain team at Trail of Bits, where I led reviews of some of the most critical systems in the space. I've recently transitioned to independent consulting and am now **available for private blockchain security reviews**.
+I'm a seasoned information security expert with over a decade of experience, including **9+ years focused on blockchain security**. Until 2025, I was the Engineering Director of the Blockchain team at Trail of Bits, where I led reviews of some of the most critical systems in the space. I've recently transitioned to independent consulting and am now **available for private blockchain security reviews**.
 
 I specialize in securing both cutting-edge DeFi applications and the core blockchain components.
 
