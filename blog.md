@@ -46,6 +46,7 @@ title: Josselin Feist
 # Blog
 
 ### 2026
+- [Security is a leadership problem](./blog/2026/may/leadership.md)
 - [Getting Rounding Right in DeFi](./blog/2026/january/rounding.md)
 
 ## Previous Writing (Trail of Bits)
