@@ -1,5 +1,8 @@
 name: Generate Talks Page
 
+permissions:
+  contents: write
+
 on:
   # Run when talks.yaml changes in publications repo
   repository_dispatch:
