@@ -55,6 +55,11 @@ For the complete list with all materials, see the [publications repository](http
 Invited talks and presentations at major blockchain and security conferences.
 
 
+### 2026
+
+- **Security is a Leadership Problem** — Devcon 2026 ([slides](https://github.com/montyly/publications/blob/main/industrial/presentations/2026/devcon/2026-11-05-leadership.pdf))
+- **Security is a Leadership Problem** — DSS 2026 ([slides](https://github.com/montyly/publications/blob/main/industrial/presentations/2026/DSS/2026-11-02-leadership.pdf))
+
 ### 2025
 
 - **The Definitive Guide to Rounding in DeFi** — WonderCon 2025 ([slides](https://github.com/montyly/publications/blob/main/industrial/presentations/2025/2025-11-16_rounding.pdf)) *(invited)*
@@ -163,6 +168,11 @@ Peer-reviewed research papers on program analysis, symbolic execution, and smart
 
 ## Podcasts & Panels
 
+
+### 2026
+
+- [Tragedy of the Ethereum Security Commons](https://app.devcon.org/schedule/tragedy-of-the-ethereum-security-commons) — Panel (Devcon)
+- [Securing Ethereum in the age of AI: Challenges & Opportunities](https://app.devcon.org/schedule/securing-ethereum-in-the-age-of-ai-challenges-and-opportunities) — Panel (Devcon)
 
 ### 2025
 
